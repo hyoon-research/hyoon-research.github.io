@@ -1,28 +1,35 @@
+# -----------------------------------------------------------------------------
 # Site Settings
-title: Yoon Lab | Hyun Yoon, Ph.D.
+# -----------------------------------------------------------------------------
+title: Hyun Yoon, Ph.D.
 first_name: Hyun
+middle_name:
 last_name: Yoon
-
 position: Postdoctoral Scholar
 affiliation: University of California, Berkeley
 affiliation_url: "https://ce.berkeley.edu/"
 email: h_yoon@berkeley.edu
-
-# Description & Keywords
-description: "Postdoctoral Scholar in Department of Civil and Environmental Engineering at UC Berkeley."
+description: "Postdoctoral Scholar in Environmental Geochemistry and Interfacial Biogeochemistry at UC Berkeley."
 keywords: "Environmental Geochemistry, Biogeochemistry, PFAS, Machine Learning, Contaminant Fate, Groundwater"
 
-# Social / Professional Links
-scholar_userid: OD69EnkAAAAJ
-github_username: supremehyun12345
-linkedin_username: hyun-yoon-ba10a18b
+url: "https://supremehyun12345.github.io"
+baseurl: ""
 
-# Navigation Bar Configuration (4개 탭만 활성화)
+# -----------------------------------------------------------------------------
+# Navigation (4-Tab Structure)
+# -----------------------------------------------------------------------------
 nav_order:
   - about
   - research
   - publications
   - software
+
+# -----------------------------------------------------------------------------
+# Social Links
+# -----------------------------------------------------------------------------
+github_username: supremehyun12345
+linkedin_username: hyun-yoon-ba10a18b
+scholar_userid: OD69EnkAAAAJ
 
 # -----------------------------------------------------------------------------
 # Third Party Libraries Configuration (Required by al-folio)
@@ -38,3 +45,50 @@ third_party_libraries:
     enabled: true
   bootstrap-table:
     enabled: true
+
+# -----------------------------------------------------------------------------
+# Scholar (BibTeX / Publications) Configuration
+# -----------------------------------------------------------------------------
+scholar:
+  last_name: [Yoon]
+  first_name: [Hyun]
+  style: apa
+  locale: en
+  sort_by: year, month
+  order: descending
+  bibliography: papers.bib
+  bibliography_template: bib
+  replace_repository_information: true
+
+# -----------------------------------------------------------------------------
+# ImageMagick & Assets Configuration
+# -----------------------------------------------------------------------------
+imagemagick:
+  enabled: true
+  widths: [480, 800, 1400]
+  input_directories: ["assets/img"]
+  output_directory: "assets/img"
+
+# -----------------------------------------------------------------------------
+# Build & Feature Settings
+# -----------------------------------------------------------------------------
+enable_tooltips: true
+enable_google_analytics: false
+enable_masonry: true
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+
+plugins:
+  - jekyll-archives
+  - jekyll-email-protect
+  - jekyll-feed
+  - jekyll-imagemagick
+  - jekyll-link-attributes
+  - jekyll-minifier
+  - jekyll-paginate-v2
+  - jekyll-scholar
+  - jekyll-sitemap
+  - jekyll-toc
+  - jemoji
