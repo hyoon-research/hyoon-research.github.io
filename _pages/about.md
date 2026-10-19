@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
+    <p>h_yoon_at_berkeley.edu</p>
     <p>O'Brien Hall #209</p>
     <p>University of California, Berkeley</p>
     <p>Berkeley, CA 94720</p>
