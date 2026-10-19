@@ -1,189 +1,370 @@
+---
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
-
+  name: Hyun Yoon
+  label: Postdoctoral Scholar, University of California, Berkeley
+  email: h_yoon@berkeley.edu
+  phone: "(607) 882-4616"
+  location: Berkeley, California, USA
+  image: ''
+  summary: I study how microbial and geochemical processes govern the fate and transformation
+    of contaminants, integrating environmental microbiology, interfacial biogeochemistry,
+    and predictive modeling.
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
+    - institution: Cornell University
+      location: Ithaca, New York
+      area: Civil and Environmental Engineering
+      studyType: Ph.D.
+      start_date: 2019
+      end_date: 2023
+    - institution: Korea Advanced Institute of Science and Technology (KAIST)
+      location: Daejeon, South Korea
+      area: Civil and Environmental Engineering
+      studyType: M.S.
+      start_date: 2016
+      end_date: 2018
+    - institution: Yonsei University
+      location: Seoul, South Korea
+      area: Atmospheric Sciences
+      studyType: B.S.
+      start_date: 2010
+      end_date: 2016
+      highlights:
+      - Exchange Program, University of California, Los Angeles, 2014 (one year).
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
+    - company: University of California, Berkeley
+      position: Postdoctoral Scholar & NIH Superfund Research Program Trainee
+      start_date: 2024
+      end_date: present
+      highlights:
+      - 'Mentors: Profs. Lisa Alvarez-Cohen and David L. Sedlak.'
+      - Environmental microbiology and geochemistry governing contaminant fate and
+        transformation, with a primary focus on PFAS.
+    - company: Cornell University
+      position: Graduate Research Assistant
+      start_date: 2019
+      end_date: 2023
+      highlights:
+      - 'Advisor: Prof. Matthew C. Reid.'
+      - Wetland biogeochemistry with a focus on arsenic and carbon dynamics.
+    - company: KAIST
+      position: Graduate Research Assistant
+      start_date: 2016
+      end_date: 2018
+      highlights:
+      - 'Advisor: Prof. Sukhwan Yoon.'
+      - Biological treatment of N2O emissions from wastewater treatment plants.
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
+    - title: National Interest Waiver (NIW)
+      date: '2025'
+      awarder: United States Citizenship and Immigration Services
+      summary: U.S. permanent residency granted based on publication record and expert
+        references.
+    - title: International Research Travel Grant
+      date: '2022'
+      awarder: Cornell University
+      summary: Proposal selected, funding a two-month visit to the University of Ottawa
+        for on-site collaboration.
+    - title: Featured in Journal Spotlight
+      date: '2022'
+      awarder: Applied and Environmental Microbiology
+      summary: Selected by the editorial team in the respective issue.
+    - title: Cornell Fellowship
+      date: 2019–2020
+      awarder: Cornell University
+      summary: Competitively awarded full funding package for the first year of Ph.D.
+        study.
+    - title: KAIST Support Scholarship for State Scholarship Student
+      date: 2016–2018
+      awarder: KAIST
+      summary: Competitively awarded full funding package for the duration of the
+        M.S. program.
+    - title: Internal Scholarship & Academic Awards
+      date: '2015'
+      awarder: Yonsei University
+      summary: Competitively awarded final-semester tuition funding.
+    - title: Excellence Award
+      date: '2012'
+      awarder: Republic of Korea Army Squad Leader Training Course
+      summary: Ranked second overall among approximately 200 trainees.
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    - title: Versatile TOP Assay Surrogates for Evaluating Oxidation Efficiency in
+        Complex Environmental Samples
+      authors:
+      - Sarah Choyke†, Hyun Yoon†, Caroline Rose Alukkal, Youn Jeong Choi, Collin
+        Meyers, Jonathan Thorn, Hannah Kruelle, Anthony Grimaldi, Ben Priest, Taryn
+        McKnight, Josie King, Ananya Visweswaran, James Gray, Linda S. Lee, Lisa Alvarez-Cohen,
+        David L. Sedlak, Fuhar Dixit and Mohamed Ateia
+      publisher: Journal of Hazardous Materials Letters
+      releaseDate: '2026'
+      summary: Journal of Hazardous Materials Letters. 7. 100198. (†Equal first author
+        contribution)
+    - title: Evaporative losses of perfluoroalkyl sulfonamides during PFAS analysis
+      authors:
+      - Fuhar Dixit, Sarah Suhnholz, Hyun Yoon, Elizabeth M. Fries, Edmund H. Antell,
+        Christopher P. Higgins, Lisa Alvarez-Cohen and David L. Sedlak
+      publisher: ACS Omega
+      releaseDate: '2026'
+      summary: ACS Omega, 11(9), 14638-14643.
+    - title: 'Tunable low-rate genomic recombination with cre-lox in e. coli: a versatile
+        tool for synthetic biology and environmental sensing'
+      authors:
+      - Elisa Garabello, Hyun Yoon, Matthew C. Reid and Andrea Giometto
+      publisher: Applied and Environmental Microbiology
+      releaseDate: '2026'
+      summary: Applied and Environmental Microbiology, 92(4), e1768-25.
+    - title: Effects of organic matter, iron (hydr)oxides, and iron reductive dissolution
+        on PFAS sorption in AFFF-impacted solids
+      authors:
+      - Hyun Yoon, Fuhar Dixit, Jonathan J. Uhler, Anna-Ricarda Schittich, Edmund
+        H. Antell, Lisa Alvarez-Cohen and David L. Sedlak
+      publisher: Environmental Science & Technology Letters
+      releaseDate: '2026'
+      summary: Environmental Science & Technology Letters, 13(1), 130-136.
+    - title: Repression of arsenite uptake and methylation by dissolved organic matter
+      authors:
+      - Hyun Yoon, Michael Vega, Jiaxing Wang, Alexandre J. Poulain, Andrea Giometto,
+        Ludmila Arstilde and Matthew C. Reid
+      publisher: Environmental Science & Technology Letters
+      releaseDate: '2024'
+      summary: Environmental Science & Technology Letters, 11(8), 838-844.
+    - title: 'Biotrickling filtration for the reduction of N2O emitted during wastewater
+        treatment: results from a long-term in situ pilot-scale testing'
+      authors:
+      - Heejoo Han, Daehyun D. Kim, Min Joon Song, Taeho Yun, Hyun Yoon, Hong Woon
+        Lee, Young Mo Kim, Michele Laureni and Sukhwan Yoon
+      publisher: Environmental Science & Technology
+      releaseDate: '2023'
+      summary: Environmental Science & Technology, 57(9), 3883-3892.
+    - title: Effects of iron and dissolved organic matter on bioavailability of arsenite
+        under anaerobic conditions
+      authors:
+      - Hyun Yoon, Benjamin Stenzler, Lena Abu-Ali, Maria P. Asta, Alexandre J. Poulain
+        and Matthew C. Reid
+      publisher: ACS ES&T Water
+      releaseDate: '2023'
+      summary: ACS ES&T Water, 3(11), 3676-3686.
+    - title: Time-dependent biosensor fluorescence as a measure of bacterial arsenic
+        uptake kinetics and its inhibition by dissolved organic matter
+      authors:
+      - Hyun Yoon, Andrea Giometto, Martin P. Pothier, Xuhui Zhang, Alexandre J. Poulain
+        and Matthew C. Reid
+      publisher: Applied and Environmental Microbiology
+      releaseDate: '2022'
+      summary: Applied and Environmental Microbiology, 88(16), e00891-22. Featured
+        in AEM Research Spotlight
+    - title: Effects of organic sulfur and arsenite/dissolved organic matter ratios
+        on arsenite complexation with dissolved organic matter
+      authors:
+      - Lena Abu-Ali, Hyun Yoon and Matthew C. Reid
+      publisher: Chemosphere
+      releaseDate: '2022'
+      summary: Chemosphere, 302, 134770.
+    - title: Quantification of nosZ genes and transcripts in activated sludge microbiomes
+        with novel group-specific qPCR methods validated with metagenomic analyses
+      authors:
+      - Daehyun D. Kim, Doyoung Park, Hyun Yoon, Taeho Yun, Min Joon Song and Sukhwan
+        Yoon
+      publisher: Water Research
+      releaseDate: '2020'
+      summary: Water Research. 185, 116261.
+    - title: Orthophosphate enhances abiotic nitrous oxide production from aerobic
+        hydroxylamine decomposition
+      authors:
+      - Min Joon Song, Hyun Yoon, Tae Kwon Lee, Miye Kwon and Sukhwan Yoon
+      publisher: Biology and Fertility of Soils
+      releaseDate: '2020'
+      summary: Biology and Fertility of Soils, 56(5), 687-695.
+    - title: 'A serial biofiltration system for effective removal of low-concentration
+        nitrous oxide in oxic gas streams: mathematical modeling of reactor performance
+        and experimental validation'
+      authors:
+      - Hyun Yoon, Min Joon Song, Daehyun D. Kim, Fabrizio Sabba and Sukhwan Yoon
+      publisher: Environmental Science & Technology
+      releaseDate: '2019'
+      summary: Environmental Science & Technology, 53(4), 2063-2074.
+    - title: Design and feasibility analysis of a self-sustaining biofiltration system
+        for removal of low concentration N2O emitted from wastewater treatment plants
+      authors:
+      - Hyun Yoon, Min Joon Song and Sukhwan Yoon
+      publisher: Environmental Science & Technology
+      releaseDate: '2017'
+      summary: Environmental Science & Technology, 51(18), 10736-10745.
+    Manuscripts and Preprints:
+    - bullet: 'Hyun Yoon*, John Han, Lisa Alvarez-Cohen and David L. Sedlak. Molecular
+        structure and environmental context jointly predict PFAS biotransformation
+        outcomes: a literature-derived machine learning analysis. In prep. (*Correspondence)
+        [Link](https://virtual.posterpresentations.com/research/presentation/ID973765/)'
+    - bullet: Anna-Ricarda Schittich†, Hyun Yoon†, Leyan Peng, Fuhar Dixit, Tae-Kyoung
+        Kim, Fanshu Geng, Damian Helbling, Christopher Olivares, David L. Sedlak and
+        Lisa Alvarez-Cohen. Charge-dependent sorption controls the bioavailability
+        and biotransformation of PFAS precursors in AFFF-impacted solids. In prep.
+        (†Equal first author contribution) [Link](https://virtual.posterpresentations.com/research/presentation/ID841994/)
+    - bullet: Hyun Yoon†, Michael Vega† and Matthew C. Reid. Genome-resolved metatranscriptomic
+        analysis of arsenic demethylation and detoxification in a methanogenic rice
+        paddy soil. bioRxiv, 2026-08  (†Equal first author contribution) [Link](https://doi.org/10.64898/2026.08.27.747368)
+    - bullet: 'Sarah Suhnholz, Boris Droz, Hyun Yoon, Corey De La Cruz, Nayantara
+        T. Joseph, Johanna Peeters Weem, Trevor Schwichtenberg, Eric Redman, Mark
+        Benotti, Gerrad D. Jones, Damian E. Helbling, Lisa Alvarez-Cohen, David L.
+        Sedlak, Jennifer A. Field, Christopher P. Higgins and Fuhar Dixit. PFAS forensics
+        strategy for source identification: an intermethod comparison across environmental
+        challenge matrices. In prep.'
+    Technical Reports:
+    - bullet: "**SERDP Final Report, ER20-1330**. Fuhar Dixit, Hyun Yoon, Lisa Alvarez-Cohen
+        and David L. Sedlak, 2026. A simple and robust forensic technique for differentiating
+        PFAS associated with AFFF from other PFAS sources. SERDP Final Report, ER20-1330.
+        [Link](https://bit.ly/3U3wGxx)"
+    Grant Activities:
+    - bullet: "**Project 3 Proposal Lead — UC Berkeley Superfund Research Program
+        (NIEHS P42)**. 2026; Under Review; USD 3.8M proposed. PFAS Release from Long-Term
+        Sources and Their Fate in Subsurface Environments (FY2027–2032 Renewal). Spearheaded
+        proposal development for the engineering portion (Project 3) of the five-year
+        center renewal. Authored prior-term technical progress reports, synthesized
+        preliminary fate/transformation data, and collaborated with biomedical teams
+        (Projects 1 and 2) to integrate engineering outcomes with biological exposure
+        pathways."
+    - bullet: "**Proposal Lead — U.S. Department of Defense, SERDP**. 2025; Submitted
+        / not funded; USD 1.7M proposed. Effect of Subsurface Solids Properties and
+        Redox Conditions on PFAS Transformation at AFFF-Impacted Sites. Led development
+        of the pre-proposal and full proposal."
+    - bullet: "**Postdoctoral Project Lead — U.S. Department of Defense, SERDP**.
+        2024–2027; Funded; USD 1.8M. Assessment of Physical, Chemical, and Biological
+        Factors Controlling Biotransformation of Cationic and Zwitterionic Precursors
+        in PFAS Source Zones (ER23-3827). Led day-to-day research implementation and
+        project coordination: experimental planning, data collection and analysis,
+        budget management, mentoring, progress presentations and reporting, and collaborator
+        coordination."
+    - bullet: "**Postdoctoral Project Lead — U.S. Department of Defense, SERDP**.
+        2021–2025; Funded; USD 1.5M. A Simple and Robust Forensic Technique for Differentiating
+        PFAS Associated with AFFF from Other PFAS Sources (ER20-1330). Led day-to-day
+        research activities and project coordination, including data collection and
+        analysis, mentoring, progress reporting, and collaboration across participating
+        research groups."
+    - bullet: "**Principal Investigator — International Research Travel Grant, Cornell
+        University**. 2022; Funded; USD 3K. Effects of Iron and Organic Matter on
+        Arsenic Bioavailability Using Novel Anaerobic Biosensor Techniques. Developed
+        the full proposal and conducted a two-month collaboration with Prof. Alexandre
+        Poulain’s group at the University of Ottawa."
+    - bullet: "**Graduate Researcher / Project Contributor — NSF Environmental Chemical
+        Sciences Program, Division of Chemistry**. 2019–2022; Funded; USD 355K. Arsenic
+        Complexation with Reduced Organosulfur Moieties in Soil Organic Matter: Implications
+        for Arsenic Oxidation via Biotic and Abiotic Pathways. Post-award team member;
+        data collection and analysis; collaborative partnerships."
+    - bullet: "**Graduate Researcher / Project Contributor — USDA-NIFA Bioenergy,
+        Natural Resources, and Environment Program**. 2018–2021; Funded; USD 495K.
+        Closing the Si Cycle in Rice Agroecosystems to Sustainably Control As and
+        Cd Uptake by Rice Grown Under Alternate Wetting and Drying (AWD). Post-award
+        team member; data collection and analysis; field sampling campaign to Arkansas
+        rice paddies; collaborative partnerships."
+    - bullet: "**Graduate Researcher / Project Contributor — Ministry of Environment
+        of Korea**. 2019–2022; Funded; USD 861K. Mitigation and Control of Low-Level
+        N2O Emissions in Wastewater Treatment Plants (Global Top Environmental R&D).
+        Contributed to full-proposal development, seed data, lab-scale and pilot-scale
+        biofilter operation, project management, training, and collaborative partnerships."
+    Teaching and Mentoring:
+    - bullet: "**Guest Lecturer — Seoul National University**. May 2026. CEE 457.634:
+        Contaminant Transport Analysis (3 credits; 15 students). Invited lecture:
+        “Predicting PFAS Fate in Subsurface Environments via Biogeochemical Controls,”
+        followed by a discussion section."
+    - bullet: "**Teaching Assistant — Cornell University**. Spring 2022 and Spring
+        2023. CEE 4530: Laboratory Research in Environmental Engineering (3 credits;
+        15–20 students). Led lab sessions, office hours, and student project management.
+        Delivered hands-on instruction on analytical instrumentation and data analysis
+        for undergraduate researchers."
+    - bullet: "**Instrument Manager — Biogeochemistry and Ecological Engineering Lab,
+        Cornell University**. 2021–2023. Provided regular operation and maintenance
+        training for (HPLC-)ICP-MS, IC, and TOC analyzers."
+    - bullet: "**Research Advisor — University of California, Berkeley**. 2024–present.
+        Mentored and trained Ph.D. students Ananya Visweswaran, Nicole Garrido, and
+        Leyan Peng, and undergraduate researchers Olivia Wang, Peter Reyes, and Diego
+        Canela in essential PFAS analysis protocols."
+    Peer Review:
+    - bullet: "**Ad-hoc Journal Reviewer**. Environmental Science & Technology (16
+        reviews completed); Applied and Environmental Microbiology; ACS Omega; Agrosystems,
+        Geosciences & Environment."
+    Invited Talks:
+    - bullet: 'Invited research seminar, December 2026, AEESP Future Faculty Seminar
+        Series | Host: Association of Environmental Engineering and Science Professors
+        (AEESP) (scheduled)'
+    - bullet: 'Invited lecture for course “CEE 457.634: Contaminant Transport Analysis”,
+        May 2026, “Predicting PFAS Fate in Subsurface Environments via Hydrologic
+        and Biogeochemical Controls,” Department of Civil and Environmental Engineering,
+        Seoul National University, Seoul, South Korea | Host: Dr. Yongju Choi'
+    - bullet: 'Invited research seminar, April 2026, “Predicting PFAS Fate in Subsurface
+        Environments via Hydrologic and Biogeochemical Controls,” Department of Civil
+        and Environmental Engineering, Korea Advanced Institute of Science and Technology
+        (KAIST), Daejeon, South Korea | Host: Dr. Sukhwan Yoon'
+    - bullet: 'Invited research seminar, March 2026, “Redox and Soil–Water Chemistry
+        Controls on Contaminant and Nutrient Dynamics,” Department of Biological and
+        Agricultural Engineering, Kansas State University, Manhattan, KS | Host: Dr.
+        Mark Wilkins'
+    - bullet: 'Invited research seminar, July 2025, “Regulation of Arsenic Methylation
+        and Demethylation Dynamics by Organic Carbon in Rice Paddy Soil & Effects
+        of Iron Minerals and Reductive Dissolution on PFAS Precursor Sorption in AFFF-Impacted
+        Soils,” Department of Green Chemistry, University of Chemistry and Technology,
+        Prague (UCT Prague), Czech Republic | Host: Dr. Lenka McGachy'
+    Conference Presentations:
+    - bullet: Hyun Yoon, John Han, Lisa Alvarez-Cohen and David L. Sedlak. 2026. Machine
+        Learning Reveals How Molecular Structure and Environmental Conditions Jointly
+        Drive PFAS Biotransformation. Superfund Research Program Annual Meeting. Portland,
+        OR, poster
+    - bullet: 'Hyun Yoon, Anna-Ricarda Schittich, Fuhar Dixit, Jonathan J. Uhler,
+        Leyan Peng, Fanshu Geng, Damian Helbling, Lisa Alvarez-Cohen and David L.
+        Sedlak. 2026. Charge-Dependent Sorption Controls the Bioavailability and Biotransformation
+        of PFAS Precursors in AFFF-Impacted Solids. Gordon Research Conference 2026
+        Environmental Sciences: Water. Plymouth, NH, poster'
+    - bullet: 'Hyun Yoon, Fuhar Dixit, Jonathan J. Uhler, Anna-Ricarda Schittich,
+        Edmund H. Antell, Lisa Alvarez-Cohen and David L. Sedlak. 2025. How organic
+        matter and iron mineral dynamics, including reductive dissolution, affect
+        PFAS sorption to AFFF-contaminated solids. Berkeley Energy & Resources Collaborative
+        (BERC) 2025 Resources Symposium: Water as a Resource. Berkeley, CA, poster'
+    - bullet: Michael Vega, Hyun Yoon and Matthew C. Reid. 2025. Regulation of arsenic
+        methylation and demethylation dynamics by organic carbon in rice paddy soil.
+        Goldschmidt 2025 Conference. Prague, Czech Republic, oral
+    - bullet: Hyun Yoon, Anna-Ricarda Schittich, Leyan Peng, Nicole Garrido, Fuhar
+        Dixit, Christopher Olivares, David Sedlak and Lisa Alvarez-Cohen, 2024. Assessment
+        of physical, chemical, and biological factors controlling biotransformation
+        of cationic and zwitterionic precursors in PFAS source zones. DOD Energy Innovation
+        Symposium. Washington, DC, poster
+    - bullet: Hyun Yoon, Fuhar Dixit, Katerina Tsou, Yanghua Duan, David L. Sedlak
+        and Lisa Alvarez-Cohen. 2024. Effects of iron, organic matter, and seawater
+        intrusion on PFAS precursor sorption in soil and groundwater. SETAC North
+        America 45th Annual Meeting. Fort Worth, TX, oral
+    - bullet: Hyun Yoon, Benjamin Stenzler, Lena Abu-Ali, Maria P. Asta, Alexandre
+        J. Poulain and Matthew C. Reid. 2023. Using an anaerobic biosensor to model
+        the effects of dissolved organic matter and complexed ferric iron on arsenite
+        bioavailability. ACS Fall 2023 National Meeting. San Francisco, CA. oral
+    - bullet: Hyun Yoon and Matthew C. Reid. 2023. What is the role of carbon catabolite
+        repression in regulating microbial uptake and methylation of arsenic? 2023
+        AEESP Research & Education Conference, Boston, MA. poster
+    - bullet: 'Hyun Yoon, Martin P. Pothier, Xuhui Zhang, Andrea Giometto, Alexandre
+        J. Poulain and Matthew C. Reid. 2021. Kinetic study of microbial arsenite
+        uptake using whole-cell biosensor: Inhibitory effects of thiols and low molecular
+        weight organic molecules. ACS Spring 2021 National Meeting, Virtual meeting.
+        oral'
+    - bullet: Hyun Yoon, Min Joon Song, Daehyun D. Kim and Sukhwan Yoon. 2018. Serial
+        biofiltration system for effective removal of low-concentration nitrous oxide
+        in oxic gas streams. 17th ISME, Leipzig, Germany. poster
+    - bullet: Hyun Yoon and Sukhwan Yoon. 2017. Removal of low concentration nitrous
+        oxide from gas streams using a self-sustaining biofiltration system with gravitationally-fed
+        wastewater as the nutrient solution. ASM Microbe 2017, New Orleans, LA. poster
+    Patents:
+    - bullet: Sukhwan Yoon, Hyun Yoon, Min Joon Song, Heejoo Han and Daehyun D. Kim.
+        Apparatus for removing nitrous oxide by using biofilters. Korea Patent No.
+        10-2227395-0000, filed Apr 2019 and issued Mar 2021.
+    - bullet: Sukhwan Yoon and Hyun Yoon. The self-sustaining biofiltration apparatus
+        for removal of nitrous oxide and the method of its installation and operation
+        at wastewater. Korea Patent No. 10-1923992-0000, filed Jan 2017 and issued
+        Nov 2018.
+    Leadership and Activities:
+    - bullet: "**Social Media Chair — Graduate Student Association of Civil and Environmental
+        Engineering, Cornell University**. 2020–2021."
+    - bullet: "**Baritone and Club Executive — Glee Club (Choir), Yonsei University**.
+        2013."
+    - bullet: "**Squad Leader and Tank Driver — Republic of Korea Army**. 2011–2012.
+        Rank at discharge: Sergeant. Led a squad comprising three tanks and 12 soldiers."
+  address:
+    city: Berkeley
+    region: California
+    countryCode: US
+  website: https://scholar.google.com/citations?user=OD69EnkAAAAJ
