@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Teaching and mentoring experience in environmental engineering.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 ## 2024–Present
