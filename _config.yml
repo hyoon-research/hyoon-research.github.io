@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site Settings
 # -----------------------------------------------------------------------------
-title: Hyun Yoon, Ph.D.
+title: blank # blank로 두면 first_name + last_name을 조합해 타이틀을 만듭니다
 first_name: Hyun
 middle_name:
 last_name: Yoon
@@ -16,7 +16,7 @@ url: "https://supremehyun12345.github.io"
 baseurl: ""
 
 # -----------------------------------------------------------------------------
-# Navigation Bar (4-Tab Structure)
+# Navigation Bar
 # -----------------------------------------------------------------------------
 nav_order:
   - about
@@ -32,7 +32,25 @@ linkedin_username: hyun-yoon-ba10a18b
 scholar_userid: OD69EnkAAAAJ
 
 # -----------------------------------------------------------------------------
-# Third Party Libraries Configuration
+# Display & Theme Settings
+# -----------------------------------------------------------------------------
+theme: al-folio
+icon: ⚛️
+lang: en
+
+header_text:
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+
+max_author_limit: 3
+more_authors_animation_delay: 10
+
+enable_tooltips: true
+enable_google_analytics: false
+enable_masonry: true
+
+# -----------------------------------------------------------------------------
+# Third Party Libraries & Scholar
 # -----------------------------------------------------------------------------
 third_party_libraries:
   google_fonts:
@@ -46,9 +64,6 @@ third_party_libraries:
   bootstrap-table:
     enabled: true
 
-# -----------------------------------------------------------------------------
-# Scholar (BibTeX / Publications) Configuration
-# -----------------------------------------------------------------------------
 scholar:
   last_name: [Yoon]
   first_name: [Hyun]
@@ -60,9 +75,6 @@ scholar:
   bibliography_template: bib
   replace_repository_information: true
 
-# -----------------------------------------------------------------------------
-# ImageMagick & Assets Configuration
-# -----------------------------------------------------------------------------
 imagemagick:
   enabled: true
   widths: [480, 800, 1400]
@@ -70,21 +82,13 @@ imagemagick:
   output_directory: "assets/img"
 
 # -----------------------------------------------------------------------------
-# Build & Feature Settings
+# Build Settings & Plugins
 # -----------------------------------------------------------------------------
-enable_tooltips: true
-enable_google_analytics: false
-enable_masonry: true
-
 markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:title/
 
-# -----------------------------------------------------------------------------
-# Jekyll Plugins (al-folio Gemfile matching)
-# -----------------------------------------------------------------------------
 plugins:
-  - jekyll-archives-v2
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-imagemagick
