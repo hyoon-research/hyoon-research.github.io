@@ -15,7 +15,7 @@ profile:
 
 news: false
 latest_posts: false
-selected_papers: true # publications 중 selected=true 표기된 논문만 메인에 하이라이트
+selected_papers: false # publications 중 selected=true 표기된 논문만 메인에 하이라이트
 social: true
 ---
 
