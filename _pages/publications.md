@@ -2,19 +2,25 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications by categories in reversed chronological order.
+description: ""
 nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
+## Selected Manuscripts and Preprints
 
 <div class="publications">
+{% bibliography --query @*[pubgroup=manuscript] --group_by none %}
+</div>
 
-{% bibliography %}
+## Peer-reviewed Journal Publications
 
+<div class="publications">
+{% bibliography --query @*[pubgroup=reviewed] --group_by year --group_order descending %}
+</div>
+
+## Technical Reports
+
+<div class="publications">
+{% bibliography --query @*[pubgroup=report] --group_by year --group_order descending %}
 </div>
