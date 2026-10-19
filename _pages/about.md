@@ -26,7 +26,8 @@ My research develops **predictive frameworks for contaminant fate** by integrati
 
 **Current directions:** PFAS transformation · Redox-driven mineral–contaminant interactions · Predictive environmental modeling · Microbial transformation mechanisms
 <br>
----
+<hr>
+
 
 ### Research Interests
 
@@ -34,7 +35,8 @@ My research develops **predictive frameworks for contaminant fate** by integrati
 - **Predictive Contaminant Biogeochemistry:** Data-driven models and experiments to predict contaminant mobility and transformation across environmental conditions.
 - **Environmental Microbiology:** Microbial transformation pathways, functional genes, and contaminant–microbe interactions.
 <br>
----
+<hr>
+
 
 ### Academic Appointments
 
@@ -42,7 +44,7 @@ My research develops **predictive frameworks for contaminant fate** by integrati
 Postdoctoral Scholar & NIEHS Superfund Research Program Trainee  
 Department of Civil and Environmental Engineering  
 <br>
----
+<hr>
 
 ### Education
 
@@ -56,7 +58,7 @@ M.S. in Civil and Environmental Engineering
 B.S. in Atmospheric Sciences  
 Exchange Program, University of California, Los Angeles (2014)
 <br>
----
+<hr>
 
 ### Professional Service
 
