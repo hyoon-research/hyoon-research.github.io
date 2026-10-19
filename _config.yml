@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site Settings
 # -----------------------------------------------------------------------------
-title: blank # blank로 두면 first_name + last_name을 조합해 타이틀을 만듭니다
+title: "blank" # blank로 두면 first_name + last_name을 조합하여 자동 생성합니다
 first_name: Hyun
 middle_name:
 last_name: Yoon
@@ -16,7 +16,7 @@ url: "https://supremehyun12345.github.io"
 baseurl: ""
 
 # -----------------------------------------------------------------------------
-# Navigation Bar
+# Navigation Bar Settings
 # -----------------------------------------------------------------------------
 nav_order:
   - about
@@ -25,14 +25,14 @@ nav_order:
   - software
 
 # -----------------------------------------------------------------------------
-# Social Links
+# Social Integration
 # -----------------------------------------------------------------------------
 github_username: supremehyun12345
 linkedin_username: hyun-yoon-ba10a18b
 scholar_userid: OD69EnkAAAAJ
 
 # -----------------------------------------------------------------------------
-# Display & Theme Settings
+# Theme & Footer Settings
 # -----------------------------------------------------------------------------
 theme: al-folio
 icon: ⚛️
@@ -50,7 +50,7 @@ enable_google_analytics: false
 enable_masonry: true
 
 # -----------------------------------------------------------------------------
-# Third Party Libraries & Scholar
+# Third Party Libraries (Required by al-folio engine)
 # -----------------------------------------------------------------------------
 third_party_libraries:
   google_fonts:
@@ -63,7 +63,18 @@ third_party_libraries:
     enabled: true
   bootstrap-table:
     enabled: true
+  fontawesome:
+    version: "6.5.1"
+  academicons:
+    version: "1.9.4"
+  scholar-icons:
+    version: "1.0.0"
+  tocbot:
+    enabled: true
 
+# -----------------------------------------------------------------------------
+# Scholar (BibTeX Bibliography) Configuration
+# -----------------------------------------------------------------------------
 scholar:
   last_name: [Yoon]
   first_name: [Hyun]
@@ -75,6 +86,9 @@ scholar:
   bibliography_template: bib
   replace_repository_information: true
 
+# -----------------------------------------------------------------------------
+# ImageMagick & Media Generation
+# -----------------------------------------------------------------------------
 imagemagick:
   enabled: true
   widths: [480, 800, 1400]
@@ -82,7 +96,21 @@ imagemagick:
   output_directory: "assets/img"
 
 # -----------------------------------------------------------------------------
-# Build Settings & Plugins
+# External Services & Repositories
+# -----------------------------------------------------------------------------
+external_services:
+  github_readme_stats_url: https://github-stats-extended.vercel.app
+
+collections:
+  news:
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# -----------------------------------------------------------------------------
+# Build Engine & Plugins
 # -----------------------------------------------------------------------------
 markdown: kramdown
 highlighter: rouge
