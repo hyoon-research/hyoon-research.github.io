@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: <a href='https://ce.berkeley.edu/'>Department of Civil and Environmental Engineering</a>, UC Berkeley
 
@@ -29,9 +29,3 @@ My research sits at the intersection of **environmental geochemistry, interfacia
 - **Environmental & Aqueous Geochemistry:** Mineral-water interfacial dynamics, redox chemistry, and contaminant speciation.
 - **Predictive Environmental Modeling:** Integration of machine learning (XGBoost, GNNs) with mechanistic domain knowledge to predict contaminant transformation boundaries.
 - **Interfacial Biogeochemistry & Microbiology:** Microbial transformation pathways, enzymatic degradation, and biofilm adaptation strategies.
-
----
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  <a href="/assets/pdf/Hyun_Yoon_CV.pdf" class="btn btn-sm z-depth-1 waves-effect waves-light" role="button" target="_blank" style="background-color: #003262; color: white;">Download Full CV (PDF)</a>
-</div>
