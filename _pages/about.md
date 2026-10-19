@@ -56,7 +56,7 @@ M.S. in Civil and Environmental Engineering
 
 **Yonsei University** · 2010–2016  
 B.S. in Atmospheric Sciences  
-Exchange Program, University of California, Los Angeles (2014)
+
 <br>
 <hr>
 
