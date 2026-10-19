@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-    <p>h_yoon_at_berkeley.edu</p>
+    <p><a href="mailto:h_yoon@berkeley.edu">h_yoon@berkeley.edu</a></p>
     <p>O'Brien Hall #209</p>
     <p>University of California, Berkeley</p>
     <p>Berkeley, CA 94720</p>
@@ -22,11 +22,14 @@ social: true
 
 I am a Postdoctoral Scholar in Civil and Environmental Engineering at the **University of California, Berkeley**, with a Ph.D. in Environmental Engineering from **Cornell University**.
 
-My research develops predictive understanding of contaminant fate by integrating **environmental geochemistry, interfacial biogeochemistry, environmental microbiology, and data-driven modeling**. I focus on how redox-driven mineral–organic–microbial interactions control the mobility, bioavailability, and transformation of persistent contaminants (e.g., PFAS, arsenic) across groundwater and soil-water systems.
+My research develops **predictive frameworks for contaminant fate** by integrating environmental geochemistry, interfacial biogeochemistry, environmental microbiology, and data-driven modeling. I focus on how redox-driven mineral–organic–microbial interactions control the mobility, bioavailability, and transformation of persistent contaminants (e.g., PFAS, arsenic) across groundwater and soil-water systems.
+
+**Current directions:** PFAS transformation · Redox-driven mineral–contaminant interactions · Predictive environmental modeling · Microbial transformation mechanisms
 
 ---
 
 ### Research Interests
-- **Environmental & Aqueous Geochemistry:** Mineral-water interfacial dynamics, redox chemistry, and contaminant speciation.
-- **Predictive Environmental Modeling:** Integration of machine learning (XGBoost, Random Forest) with mechanistic domain knowledge to predict contaminant transformation boundaries.
-- **Interfacial Biogeochemistry & Microbiology:** Microbial transformation pathways, enzymatic degradation, and biofilm adaptation strategies.
+
+- **Environmental & Aqueous Geochemistry:** Mineral–water interactions, redox chemistry, contaminant speciation, and transport.
+- **Predictive Contaminant Biogeochemistry:** Data-driven models and experiments to predict contaminant mobility and transformation across environmental conditions.
+- **Environmental Microbiology:** Microbial transformation pathways, functional genes, and contaminant–microbe interactions.
