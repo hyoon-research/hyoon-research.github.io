@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 description: Selected first-author and co-first-author research.
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 Research spanning contaminant biogeochemistry, environmental microbiology, and predictive modeling.
