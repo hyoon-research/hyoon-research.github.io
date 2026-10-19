@@ -7,7 +7,7 @@ subtitle: <a href='https://ce.berkeley.edu/'>Department of Civil and Environment
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>h_yoon_at_berkeley.edu</p>
     <p>O'Brien Hall #209</p>
