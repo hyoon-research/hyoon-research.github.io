@@ -6,7 +6,7 @@ subtitle: <a href='https://ce.berkeley.edu/'>Department of Civil and Environment
 
 profile:
   align: right
-  image: prof_pic.jpg # assets/img/ 에 본인 사진 파일 업로드 시 표시됨
+  image: prof_pic.jpg
   image_circular: false
   more_info: >
     <p>O'Brien Hall #209</p>
@@ -15,7 +15,7 @@ profile:
 
 news: false
 latest_posts: false
-selected_papers: false # publications 중 selected=true 표기된 논문만 메인에 하이라이트
+selected_papers: false
 social: true
 ---
 
@@ -26,9 +26,9 @@ My research sits at the intersection of **environmental geochemistry, interfacia
 ---
 
 ### Research Interests
-* **Environmental & Aqueous Geochemistry:** Mineral-water interfacial dynamics, redox chemistry, and contaminant speciation.
-* **Predictive Environmental Modeling:** Integration of machine learning (XGBoost, GNNs) with mechanistic domain knowledge to predict contaminant transformation boundaries.
-* **Interfacial Biogeochemistry & Microbiology:** Microbial transformation pathways, enzymatic degradation, and biofilm adaptation strategies.
+- **Environmental & Aqueous Geochemistry:** Mineral-water interfacial dynamics, redox chemistry, and contaminant speciation.
+- **Predictive Environmental Modeling:** Integration of machine learning (XGBoost, GNNs) with mechanistic domain knowledge to predict contaminant transformation boundaries.
+- **Interfacial Biogeochemistry & Microbiology:** Microbial transformation pathways, enzymatic degradation, and biofilm adaptation strategies.
 
 ---
 
