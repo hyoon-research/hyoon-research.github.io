@@ -21,7 +21,7 @@ My research program integrates predictive modeling, aqueous/mineral geochemistry
 ---
 
 ### Thrust 1: Predicting Contaminant Transformation Boundaries (Predict)
-Contaminant transformation is highly sensitive to fluctuating biogeochemical conditions. Using **PFAS biotransformation** as a model persistent system, we integrate curated experimental datasets with machine learning frameworks (e.g., XGBoost, SHAP analysis) to identify critical environmental boundaries—such as redox status, solid-to-liquid ratios, and sorption capacity—that dictate whether contaminants remain persistent, bioavailable, or transformable.
+Contaminant transformation is highly sensitive to fluctuating biogeochemical conditions. Using **PFAS biotransformation** as a model persistent system, we integrate curated experimental datasets with machine learning frameworks (e.g., XGBoost, SHAP analysis) to identify critical environmental boundaries, such as redox status, solid-to-liquid ratios, and sorption capacity, that dictate whether contaminants remain persistent, bioavailable, or transformable.
 
 ### Thrust 2: Soil-Mineral Interfacial Dynamics at Dynamic Boundaries (Resolve)
 Mineral-water interfaces in subsurface environments undergo continuous redox evolution. We investigate how redox-driven mineral transformations (e.g., iron/manganese oxide dissolution and precipitation) and organic matter interactions regulate contaminant retention, partitioning, and transport in dynamic groundwater and sediment systems.
