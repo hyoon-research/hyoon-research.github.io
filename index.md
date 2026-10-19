@@ -26,6 +26,7 @@ My research sits at the intersection of **environmental geochemistry, interfacia
 ---
 
 ### Research Interests
+
 - **Environmental & Aqueous Geochemistry:** Mineral-water interfacial dynamics, redox chemistry, and contaminant speciation.
 - **Predictive Environmental Modeling:** Integration of machine learning (XGBoost, GNNs) with mechanistic domain knowledge to predict contaminant transformation boundaries.
 - **Interfacial Biogeochemistry & Microbiology:** Microbial transformation pathways, enzymatic degradation, and biofilm adaptation strategies.
