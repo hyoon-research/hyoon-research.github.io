@@ -59,6 +59,24 @@ My research develops **predictive frameworks for contaminant fate** by integrati
 
 <hr class="section-divider">
 
+### Selected Publications
+
+**Effects of organic matter, iron (hydr)oxides, and iron reductive dissolution on PFAS sorption in AFFF-impacted solids**  
+Yoon, H., Dixit, F., Uhler, J. J., Schittich, A.-R., Antell, E. H., Alvarez-Cohen, L., and Sedlak, D. L.  
+*Environmental Science & Technology Letters*, **2026**, 13(1), 130–136.
+
+**Repression of arsenite uptake and methylation by dissolved organic matter**  
+Yoon, H., Vega, M., Wang, J., Poulain, A. J., Giometto, A., Arstilde, L., and Reid, M. C.  
+*Environmental Science & Technology Letters*, **2024**, 11(8), 838–844.
+
+**A serial biofiltration system for effective removal of low-concentration nitrous oxide in oxic gas streams: mathematical modeling of reactor performance and experimental validation**  
+Yoon, H., Song, M. J., Kim, D. D., Sabba, F., and Yoon, S.  
+*Environmental Science & Technology*, **2019**, 53(4), 2063–2074.
+
+[View all publications →]({{ '/publications/' | relative_url }})
+
+<hr class="section-divider">
+
 ### Academic Appointments
 
 **University of California, Berkeley** · 2024–Present  
