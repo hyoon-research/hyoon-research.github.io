@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: <a href='https://ce.berkeley.edu/'>Department of Civil and Environmental Engineering</a>, UC Berkeley
