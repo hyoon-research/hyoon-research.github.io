@@ -20,32 +20,52 @@ selected_papers: false
 social: true
 ---
 
+<style>
+  .about-content > p,
+  .about-content > ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+
+  .about-content > .section-divider {
+    margin: 1.5rem 0;
+    height: 0;
+    border: 0;
+    border-top: 1px solid currentColor;
+    opacity: 0.2;
+  }
+
+  .about-content > h3 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+</style>
+
+<div class="about-content" markdown="1">
+
 I am a Postdoctoral Scholar in Civil and Environmental Engineering at the **University of California, Berkeley**, with a Ph.D. in Environmental Engineering from **Cornell University**.
 
 My research develops **predictive frameworks for contaminant fate** by integrating environmental geochemistry, interfacial biogeochemistry, environmental microbiology, and data-driven modeling. I focus on how redox-driven mineral–organic–microbial interactions control the mobility, bioavailability, and transformation of persistent contaminants (e.g., PFAS, arsenic) across groundwater and soil-water systems.
 
 **Current directions:** PFAS transformation · Redox-driven mineral–contaminant interactions · Predictive environmental modeling · Microbial transformation mechanisms
-<br>
-<hr>
-<br>
+
+<hr class="section-divider">
 
 ### Research Interests
 
 - **Environmental & Aqueous Geochemistry:** Mineral–water interactions, redox chemistry, contaminant speciation, and transport.
 - **Predictive Contaminant Biogeochemistry:** Data-driven models and experiments to predict contaminant mobility and transformation across environmental conditions.
 - **Environmental Microbiology:** Microbial transformation pathways, functional genes, and contaminant–microbe interactions.
-<br>
-<hr>
-<br>
+
+<hr class="section-divider">
 
 ### Academic Appointments
 
 **University of California, Berkeley** · 2024–Present  
 Postdoctoral Scholar & NIEHS Superfund Research Program Trainee  
-Department of Civil and Environmental Engineering  
-<br>
-<hr>
-<br>
+Department of Civil and Environmental Engineering
+
+<hr class="section-divider">
 
 ### Education
 
@@ -56,16 +76,16 @@ Ph.D. in Civil and Environmental Engineering
 M.S. in Civil and Environmental Engineering
 
 **Yonsei University** · 2010–2016  
-B.S. in Atmospheric Sciences  
+B.S. in Atmospheric Sciences
 
-<br>
-<hr>
-<br>
+<hr class="section-divider">
 
 ### Professional Service
 
 **Ad Hoc Reviewer**  
-*Environmental Science & Technology*;   
-*Applied and Environmental Microbiology*;
-*ACS Omega*;
+*Environmental Science & Technology*;  
+*Applied and Environmental Microbiology*;  
+*ACS Omega*;  
 *Agrosystems, Geosciences & Environment*
+
+</div>
