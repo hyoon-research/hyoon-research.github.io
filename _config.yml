@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site Settings
 # -----------------------------------------------------------------------------
-title: "blank" # blank로 두면 first_name + last_name을 조합하여 자동 생성합니다
+title: "blank"
 first_name: Hyun
 middle_name:
 last_name: Yoon
@@ -16,7 +16,7 @@ url: "https://supremehyun12345.github.io"
 baseurl: ""
 
 # -----------------------------------------------------------------------------
-# Navigation Bar Settings
+# Navigation Bar Settings (4 Tabs)
 # -----------------------------------------------------------------------------
 nav_order:
   - about
@@ -32,7 +32,7 @@ linkedin_username: hyun-yoon-ba10a18b
 scholar_userid: OD69EnkAAAAJ
 
 # -----------------------------------------------------------------------------
-# Theme & Footer Settings
+# Display & Theme Settings
 # -----------------------------------------------------------------------------
 icon: ⚛️
 lang: en
@@ -49,27 +49,32 @@ enable_google_analytics: false
 enable_masonry: true
 
 # -----------------------------------------------------------------------------
-# Third Party Libraries (Required by al-folio engine)
+# Third Party Libraries (Required URL Schema by al-folio engine)
 # -----------------------------------------------------------------------------
 third_party_libraries:
-  google_fonts:
-    fonts: "Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons"
-  highlightjs:
-    theme: github
-  mathjax:
-    enabled: true
-  mermaid:
-    enabled: true
-  bootstrap-table:
-    enabled: true
-  fontawesome:
-    version: "6.5.1"
   academicons:
-    version: "1.9.4"
-  scholar-icons:
-    version: "1.0.0"
-  tocbot:
-    enabled: true
+    url:
+      css: "https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"
+  bootstrap:
+    url:
+      css: "https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"
+      js: "https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"
+  fontawesome:
+    url:
+      css: "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+  google_fonts:
+    url:
+      css: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons"
+  jquery:
+    url:
+      js: "https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"
+  mathjax:
+    url:
+      js: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+  mdbootstrap:
+    url:
+      css: "https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css"
+      js: "https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js"
 
 # -----------------------------------------------------------------------------
 # Scholar (BibTeX Bibliography) Configuration
@@ -86,7 +91,7 @@ scholar:
   replace_repository_information: true
 
 # -----------------------------------------------------------------------------
-# ImageMagick & Media Generation
+# ImageMagick Configuration
 # -----------------------------------------------------------------------------
 imagemagick:
   enabled: true
@@ -95,7 +100,7 @@ imagemagick:
   output_directory: "assets/img"
 
 # -----------------------------------------------------------------------------
-# External Services & Repositories
+# Collections & External Services
 # -----------------------------------------------------------------------------
 external_services:
   github_readme_stats_url: https://github-stats-extended.vercel.app
