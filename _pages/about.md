@@ -13,11 +13,37 @@ profile:
     <p><a href="mailto:h_yoon@berkeley.edu">h_yoon@berkeley.edu</a></p>
     <p>O'Brien Hall #209</p>
     <p>Berkeley, CA 94720</p>
+    <div style="display: flex; align-items: center; gap: 14px; margin-top: 12px; font-size: 19px;">
+      <a href="/assets/pdf/Hyun_Yoon_CV.pdf"
+         target="_blank" rel="noopener noreferrer"
+         aria-label="Download CV" title="CV"
+         style="color: inherit; text-decoration: none;">
+        <i class="fa-solid fa-file-pdf" aria-hidden="true"></i>
+      </a>
+      <a href="https://scholar.google.com/citations?user=OD69EnkAAAAJ"
+         target="_blank" rel="noopener noreferrer"
+         aria-label="Google Scholar" title="Google Scholar"
+         style="color: inherit; text-decoration: none;">
+        <i class="ai ai-google-scholar" aria-hidden="true"></i>
+      </a>
+      <a href="https://github.com/supremehyun12345"
+         target="_blank" rel="noopener noreferrer"
+         aria-label="GitHub" title="GitHub"
+         style="color: inherit; text-decoration: none;">
+        <i class="fa-brands fa-github" aria-hidden="true"></i>
+      </a>
+      <a href="https://www.linkedin.com/in/hyun-yoon-ba10a18b/"
+         target="_blank" rel="noopener noreferrer"
+         aria-label="LinkedIn" title="LinkedIn"
+         style="color: inherit; text-decoration: none;">
+        <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+      </a>
+    </div>
 
 news: false
 latest_posts: false
 selected_papers: false
-social: true
+social: false
 ---
 
 <style>
