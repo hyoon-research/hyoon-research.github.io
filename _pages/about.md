@@ -12,7 +12,6 @@ profile:
     <p>Hyun Yoon Ph.D.</p>
     <p><a href="mailto:h_yoon@berkeley.edu">h_yoon@berkeley.edu</a></p>
     <p>O'Brien Hall #209</p>
-    <p>University of California, Berkeley</p>
     <p>Berkeley, CA 94720</p>
 
 news: false
