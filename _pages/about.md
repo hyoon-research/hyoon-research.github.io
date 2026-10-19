@@ -16,9 +16,9 @@ profile:
     <div style="display: flex; align-items: center; gap: 14px; margin-top: 12px; font-size: 19px;">
       <a href="/assets/pdf/Hyun_Yoon_CV.pdf"
          target="_blank" rel="noopener noreferrer"
-         aria-label="Download CV" title="CV"
+         aria-label="View CV" title="CV"
          style="color: inherit; text-decoration: none;">
-        <i class="fa-solid fa-file-pdf" aria-hidden="true"></i>
+        <span style="font-size: 0.9em; font-weight: 700;">CV</span>
       </a>
       <a href="https://scholar.google.com/citations?user=OD69EnkAAAAJ"
          target="_blank" rel="noopener noreferrer"
