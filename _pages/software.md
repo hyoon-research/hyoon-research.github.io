@@ -4,7 +4,7 @@ title: Software & Data
 permalink: /software/
 description: Data-driven tools and curated datasets for environmental geochemistry
 nav: true
-nav_order: 3
+nav_order: 5
 ---
 
 ### Curated PFAS Biotransformation Database & ML Framework
