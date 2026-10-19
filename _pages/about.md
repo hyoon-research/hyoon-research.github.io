@@ -26,7 +26,7 @@ I am a Postdoctoral Scholar in Civil and Environmental Engineering at the **Univ
 My research develops **predictive frameworks for contaminant fate** by integrating environmental geochemistry, interfacial biogeochemistry, environmental microbiology, and data-driven modeling. I focus on how redox-driven mineral–organic–microbial interactions control the mobility, bioavailability, and transformation of persistent contaminants (e.g., PFAS, arsenic) across groundwater and soil-water systems.
 
 **Current directions:** PFAS transformation · Redox-driven mineral–contaminant interactions · Predictive environmental modeling · Microbial transformation mechanisms
-
+<br>
 ---
 
 ### Research Interests
@@ -34,7 +34,7 @@ My research develops **predictive frameworks for contaminant fate** by integrati
 - **Environmental & Aqueous Geochemistry:** Mineral–water interactions, redox chemistry, contaminant speciation, and transport.
 - **Predictive Contaminant Biogeochemistry:** Data-driven models and experiments to predict contaminant mobility and transformation across environmental conditions.
 - **Environmental Microbiology:** Microbial transformation pathways, functional genes, and contaminant–microbe interactions.
-
+<br>
 ---
 
 ### Academic Appointments
@@ -42,7 +42,7 @@ My research develops **predictive frameworks for contaminant fate** by integrati
 **University of California, Berkeley** · 2024–Present  
 Postdoctoral Scholar & NIEHS Superfund Research Program Trainee  
 Department of Civil and Environmental Engineering  
-
+<br>
 ---
 
 ### Education
@@ -56,13 +56,13 @@ M.S. in Civil and Environmental Engineering
 **Yonsei University** · 2010–2016  
 B.S. in Atmospheric Sciences  
 Exchange Program, University of California, Los Angeles (2014)
-
+<br>
 ---
 
 ### Professional Service
 
 **Ad Hoc Reviewer**  
-*Environmental Science & Technology*   
-*Applied and Environmental Microbiology*
-*ACS Omega*
+*Environmental Science & Technology*;   
+*Applied and Environmental Microbiology*;
+*ACS Omega*;
 *Agrosystems, Geosciences & Environment*
