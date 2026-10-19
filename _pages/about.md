@@ -19,9 +19,9 @@ selected_papers: false
 social: true
 ---
 
-I am a Postdoctoral Scholar in the Department of Civil and Environmental Engineering at the **University of California, Berkeley**, working with Prof. Lisa Alvarez-Cohen and Prof. David Sedlak. I earned my Ph.D. in Environmental Engineering from **Cornell University**.
+I am a Postdoctoral Scholar in Civil and Environmental Engineering at the **University of California, Berkeley**, with a Ph.D. in Environmental Engineering from **Cornell University**.
 
-My research sits at the intersection of **environmental geochemistry, interfacial biogeochemistry, environmental microbiology, and data-driven modeling**. I examine how redox-driven interactions among minerals, organic matter, and microbial communities govern the mobility, bioavailability, and transformation of persistent contaminants (e.g., PFAS, arsenic) in groundwater and soil-water systems.
+My research develops predictive understanding of contaminant fate by integrating **environmental geochemistry, interfacial biogeochemistry, environmental microbiology, and data-driven modeling**. I focus on how redox-driven mineral–organic–microbial interactions control the mobility, bioavailability, and transformation of persistent contaminants (e.g., PFAS, arsenic) across groundwater and soil-water systems.
 
 ---
 
