@@ -23,3 +23,18 @@ nav_order:
   - research
   - publications
   - software
+
+# -----------------------------------------------------------------------------
+# Third Party Libraries Configuration (Required by al-folio)
+# -----------------------------------------------------------------------------
+third_party_libraries:
+  google_fonts:
+    fonts: "Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons"
+  highlightjs:
+    theme: github
+  mathjax:
+    enabled: true
+  mermaid:
+    enabled: true
+  bootstrap-table:
+    enabled: true
