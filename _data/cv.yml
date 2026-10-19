@@ -87,7 +87,7 @@ cv:
       date: '2012'
       awarder: Republic of Korea Army Squad Leader Training Course
       summary: Ranked second overall among approximately 200 trainees.
-    Publications:
+    Peer-Reviewed Journals:
     - title: Versatile TOP Assay Surrogates for Evaluating Oxidation Efficiency in
         Complex Environmental Samples
       authors:
@@ -190,7 +190,7 @@ cv:
       publisher: Environmental Science & Technology
       releaseDate: '2017'
       summary: Environmental Science & Technology, 51(18), 10736-10745.
-    Manuscripts and Preprints:
+    Selected Manuscripts and Preprints:
     - bullet: 'Hyun Yoon*, John Han, Lisa Alvarez-Cohen and David L. Sedlak. Molecular
         structure and environmental context jointly predict PFAS biotransformation
         outcomes: a literature-derived machine learning analysis. In prep. (*Correspondence)
