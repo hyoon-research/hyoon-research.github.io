@@ -9,14 +9,14 @@ position: Postdoctoral Scholar
 affiliation: University of California, Berkeley
 affiliation_url: "https://ce.berkeley.edu/"
 email: h_yoon@berkeley.edu
-description: "Postdoctoral Scholar in Environmental Geochemistry and Interfacial Biogeochemistry at UC Berkeley."
+description: "Postdoctoral Scholar in Civil and Environmental Engineering at UC Berkeley."
 keywords: "Environmental Geochemistry, Biogeochemistry, PFAS, Machine Learning, Contaminant Fate, Groundwater"
 
 url: "https://supremehyun12345.github.io"
 baseurl: ""
 
 # -----------------------------------------------------------------------------
-# Navigation (4-Tab Structure)
+# Navigation Bar (4-Tab Structure)
 # -----------------------------------------------------------------------------
 nav_order:
   - about
@@ -32,7 +32,7 @@ linkedin_username: hyun-yoon-ba10a18b
 scholar_userid: OD69EnkAAAAJ
 
 # -----------------------------------------------------------------------------
-# Third Party Libraries Configuration (Required by al-folio)
+# Third Party Libraries Configuration
 # -----------------------------------------------------------------------------
 third_party_libraries:
   google_fonts:
@@ -80,8 +80,11 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:title/
 
+# -----------------------------------------------------------------------------
+# Jekyll Plugins (al-folio Gemfile matching)
+# -----------------------------------------------------------------------------
 plugins:
-  - jekyll-archives
+  - jekyll-archives-v2
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-imagemagick
