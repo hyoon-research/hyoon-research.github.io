@@ -15,7 +15,7 @@ My research program integrates predictive modeling, aqueous/mineral geochemistry
     </div>
 </div>
 <div class="caption">
-    **Figure 1.** Integrated research framework connecting ML-guided boundary prediction, soil-mineral interfacial dynamics, and molecular transformation mechanisms.
+  <strong>Figure 1.</strong> Integrated research framework connecting ML-guided boundary prediction, soil-mineral interfacial dynamics, and molecular transformation mechanisms.
 </div>
 
 ---
