@@ -14,7 +14,7 @@ nav_order: 4
     <h5 class="card-title">PFAS Biotransformation Predictive Pipeline</h5>
     <h6 class="card-subtitle mb-2 text-muted">Python | XGBoost | RDKit | SHAP</h6>
     <p class="card-text">
-      A comprehensive data-driven modeling framework developed to predict PFAS biotransformation potential. The pipeline integrates 2D/3D chemical descriptors derived from SMILES with key environmental factors (e.g., solid-to-liquid ratios, sorption coefficients, microbial community parameters) to resolve mechanistic controls on biotransformation.
+      A comprehensive data-driven modeling framework developed to predict PFAS biotransformation potential. The pipeline integrates 2D/3D chemical descriptors derived from SMILES with key environmental factors (e.g., solid-to-liquid ratios, redox regimes, microbiome types) to resolve mechanistic controls on biotransformation.
     </p>
     <a href="#" class="btn btn-outline-secondary btn-sm disabled">Preprint & Code (Coming Soon)</a>
     <a href="#" class="btn btn-outline-primary btn-sm disabled">Zenodo DOI (Pending)</a>
