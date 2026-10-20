@@ -26,7 +26,7 @@ profile:
          style="color: inherit; text-decoration: none;">
         <i class="ai ai-google-scholar" aria-hidden="true"></i>
       </a>
-      <a href="https://github.com/supremehyun12345"
+      <a href="https://github.com/hyoon-research"
          target="_blank" rel="noopener noreferrer"
          aria-label="GitHub" title="GitHub"
          style="color: inherit; text-decoration: none;">
