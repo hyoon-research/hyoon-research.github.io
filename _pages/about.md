@@ -83,6 +83,15 @@ My research develops **predictive frameworks for contaminant fate** by integrati
 - **Predictive Contaminant Biogeochemistry:** Data-driven models and experiments to predict contaminant mobility and transformation across environmental conditions.
 - **Environmental Microbiology:** Microbial transformation pathways, functional genes, and contaminant–microbe interactions.
 
+<figure style="clear: both; margin: 1.5rem 0;">
+  <img
+    src="{{ '/assets/img/research_experiment.jpg' | relative_url }}"
+    alt="Experimental setup for environmental biogeochemistry research"
+    loading="lazy"
+    style="display: block; width: 100%; height: auto; border-radius: 6px;"
+  >
+</figure>
+
 <hr class="section-divider">
 
 ### Selected Publications
