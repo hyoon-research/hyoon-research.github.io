@@ -2,9 +2,9 @@
 layout: page
 title: Portfolio
 permalink: /portfolio/
-description: Selected first-author and co-first-author research.
+description: Selected first- and co-first-author research on contaminant fate, bioavailability, and transformation across environmental systems.
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 <style>
@@ -26,7 +26,7 @@ nav_order: 3
     padding-bottom: 0.8rem;
     border-bottom: 2px solid currentColor;
     font-size: 1.5rem;
-    line-height: 1.3;
+    line-height: 1.35;
     font-weight: 700;
     letter-spacing: -0.02em;
   }
@@ -111,13 +111,14 @@ nav_order: 3
 
 <div id="research-portfolio">
   <p class="portfolio-intro">
-    Research spanning contaminant biogeochemistry, environmental microbiology,
-    and predictive modeling.
+    My work combines interfacial biogeochemistry, environmental microbiology,
+    analytical chemistry, and predictive modeling.
   </p>
 
-  <section class="portfolio-section" aria-labelledby="manuscripts">
-    <h2 class="section-heading" id="manuscripts">
-      Manuscripts in Preparation
+  <!-- Theme 1 -->
+  <section class="portfolio-section" aria-labelledby="predictive">
+    <h2 class="section-heading" id="predictive">
+      Predictive Contaminant Biogeochemistry
     </h2>
 
     <article class="paper">
@@ -125,15 +126,16 @@ nav_order: 3
         Molecular structure and environmental context jointly predict PFAS
         biotransformation outcomes: a literature-derived machine learning analysis
       </h3>
-      <p class="paper-venue"><em>In preparation</em>
-                  <a
-      class="paper-link"
-      href="{{ '/assets/pdf/poster_ml.pdf' | relative_url }}"
-      target="_blank"
-      rel="noopener noreferrer"
-      aria-label="Open research poster in a new tab"
-      title="Research poster"
-    >[Poster Link]</a>
+      <p class="paper-venue">
+        <em>In preparation</em>
+        <a
+          class="paper-link"
+          href="{{ '/assets/pdf/poster_ml.pdf' | relative_url }}"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Open PFAS machine learning poster in a new tab"
+          title="Research poster"
+        >[Poster Link]</a>
       </p>
       <p class="paper-role">First author</p>
 
@@ -151,112 +153,13 @@ nav_order: 3
 
     <article class="paper">
       <h3 class="paper-title">
-        Charge-dependent sorption controls the bioavailability and
-        biotransformation of PFAS precursors in AFFF-impacted solids
-
-      </h3>
-      <p class="paper-venue"><em>In preparation</em>
-                          <a
-      class="paper-link"
-      href="{{ '/assets/pdf/poster_bioavailability.pdf' | relative_url }}"
-      target="_blank"
-      rel="noopener noreferrer"
-      aria-label="Open research poster in a new tab"
-      title="Research poster"
-    >[Poster Link]</a>
-      </p>
-      <p class="paper-role">
-        Co-first author with Anna-Ricarda Schittich
-      </p>
-
-      {% assign highlight_image = site.static_files | where: "path", "/assets/img/pfas_bioavailability_inprep.png" | first %}
-      {% if highlight_image %}
-      <figure class="paper-figure">
-        <img
-          src="{{ '/assets/img/pfas_bioavailability_inprep.png' | relative_url }}"
-          alt="PFAS precursor bioavailability and biotransformation"
-          loading="lazy"
-        >
-      </figure>
-      {% endif %}
-    </article>
-  </section>
-
-  <section class="portfolio-section" aria-labelledby="preprints">
-    <h2 class="section-heading" id="preprints">Preprints</h2>
-
-    <article class="paper">
-      <h3 class="paper-title">
-        Genome-resolved metatranscriptomic analysis of arsenic demethylation
-        and detoxification in a methanogenic rice paddy soil
-      </h3>
-      <p class="paper-venue"><em>bioRxiv · 2026</em>
-              <a
-          class="paper-link"
-          href="https://doi.org/10.64898/2026.08.27.747368"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="Open arsenic demethylation preprint in a new tab"
-        >[Link]</a>
-      </p>
-      <p class="paper-role">Co-first author with Michael Vega</p>
-
-      {% assign highlight_image = site.static_files | where: "path", "/assets/img/arsenic_demethylation_2026.png" | first %}
-      {% if highlight_image %}
-      <figure class="paper-figure">
-        <img
-          src="{{ '/assets/img/arsenic_demethylation_2026.png' | relative_url }}"
-          alt="Arsenic demethylation in rice paddy soil"
-          loading="lazy"
-        >
-      </figure>
-      {% endif %}
-    </article>
-  </section>
-
-  <section class="portfolio-section" aria-labelledby="publications">
-    <h2 class="section-heading" id="publications">
-      Peer-reviewed Publications
-    </h2>
-
-    <article class="paper">
-      <h3 class="paper-title">
-        Versatile TOP assay surrogates for evaluating oxidation efficiency
-        in complex environmental samples
-      </h3>
-      <p class="paper-venue">
-        <em>Journal of Hazardous Materials Letters · 2026 · 7: 100198</em>
-              <a
-          class="paper-link"
-          href="https://doi.org/10.1016/j.hazl.2026.100198"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="Open TOP assay paper in a new tab"
-        >[Link]</a>  
-      </p>
-      <p class="paper-role">Co-first author with Sarah Choyke</p>
-
-      {% assign highlight_image = site.static_files | where: "path", "/assets/img/top_assay_2026.png" | first %}
-      {% if highlight_image %}
-      <figure class="paper-figure">
-        <img
-          src="{{ '/assets/img/top_assay_2026.png' | relative_url }}"
-          alt="TOP assay performance in complex samples"
-          loading="lazy"
-        >
-      </figure>
-      {% endif %}
-    </article>
-
-    <article class="paper">
-      <h3 class="paper-title">
         Effects of Organic Matter, Iron (Hydr)oxides, and Iron Reductive
         Dissolution on Per- and Polyfluoroalkyl Substances Sorption to
         Aqueous Film-Forming Foam-Impacted Solids
       </h3>
       <p class="paper-venue">
         <em>Environmental Science &amp; Technology Letters · 2026 · 13(1): 130–136</em>
-             <a
+        <a
           class="paper-link"
           href="https://doi.org/10.1021/acs.estlett.5c01155"
           target="_blank"
@@ -280,12 +183,80 @@ nav_order: 3
 
     <article class="paper">
       <h3 class="paper-title">
+        Charge-dependent sorption controls the bioavailability and
+        biotransformation of PFAS precursors in AFFF-impacted solids
+      </h3>
+      <p class="paper-venue">
+        <em>In preparation</em>
+        <a
+          class="paper-link"
+          href="{{ '/assets/pdf/poster_bioavailability.pdf' | relative_url }}"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Open PFAS bioavailability poster in a new tab"
+          title="Research poster"
+        >[Poster Link]</a>
+      </p>
+      <p class="paper-role">
+        Co-first author with Anna-Ricarda Schittich
+      </p>
+
+      {% assign highlight_image = site.static_files | where: "path", "/assets/img/pfas_bioavailability_inprep.png" | first %}
+      {% if highlight_image %}
+      <figure class="paper-figure">
+        <img
+          src="{{ '/assets/img/pfas_bioavailability_inprep.png' | relative_url }}"
+          alt="PFAS precursor bioavailability and biotransformation"
+          loading="lazy"
+        >
+      </figure>
+      {% endif %}
+    </article>
+  </section>
+
+  <!-- Theme 2 -->
+  <section class="portfolio-section" aria-labelledby="microbial">
+    <h2 class="section-heading" id="microbial">
+      Microbial and Interfacial Contaminant Biogeochemistry
+    </h2>
+
+    <article class="paper">
+      <h3 class="paper-title">
+        Genome-resolved metatranscriptomic analysis of arsenic demethylation
+        and detoxification in a methanogenic rice paddy soil
+      </h3>
+      <p class="paper-venue">
+        <em>bioRxiv · 2026</em>
+        <a
+          class="paper-link"
+          href="https://doi.org/10.64898/2026.08.27.747368"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Open arsenic demethylation preprint in a new tab"
+        >[Link]</a>
+      </p>
+      <p class="paper-role">Co-first author with Michael Vega</p>
+
+      {% assign highlight_image = site.static_files | where: "path", "/assets/img/arsenic_demethylation_2026.png" | first %}
+      {% if highlight_image %}
+      <figure class="paper-figure">
+        <img
+          src="{{ '/assets/img/arsenic_demethylation_2026.png' | relative_url }}"
+          alt="Arsenic demethylation in rice paddy soil"
+          loading="lazy"
+        >
+      </figure>
+      {% endif %}
+    </article>
+
+    <article class="paper">
+      <h3 class="paper-title">
         Repression of microbial arsenite uptake and methylation by dissolved
         organic carbon
       </h3>
       <p class="paper-venue">
         <em>Environmental Science &amp; Technology Letters · 2024 · 11(8): 838–844</em>
-              <a
+        <a
           class="paper-link"
           href="https://doi.org/10.1021/acs.estlett.4c00400"
           target="_blank"
@@ -314,7 +285,7 @@ nav_order: 3
       </h3>
       <p class="paper-venue">
         <em>ACS ES&amp;T Water · 2023 · 3(11): 3676–3686</em>
-              <a
+        <a
           class="paper-link"
           href="https://doi.org/10.1021/acsestwater.3c00432"
           target="_blank"
@@ -343,7 +314,7 @@ nav_order: 3
       </h3>
       <p class="paper-venue">
         <em>Applied and Environmental Microbiology · 2022 · 88(16): e00891-22</em>
-              <a
+        <a
           class="paper-link"
           href="https://doi.org/10.1128/aem.00891-22"
           target="_blank"
@@ -364,6 +335,13 @@ nav_order: 3
       </figure>
       {% endif %}
     </article>
+  </section>
+
+  <!-- Theme 3 -->
+  <section class="portfolio-section" aria-labelledby="biotechnology">
+    <h2 class="section-heading" id="biotechnology">
+      Environmental Biotechnology and Treatment
+    </h2>
 
     <article class="paper">
       <h3 class="paper-title">
@@ -373,7 +351,7 @@ nav_order: 3
       </h3>
       <p class="paper-venue">
         <em>Environmental Science &amp; Technology · 2019 · 53(4): 2063–2074</em>
-              <a
+        <a
           class="paper-link"
           href="https://doi.org/10.1021/acs.est.8b05924"
           target="_blank"
@@ -403,7 +381,7 @@ nav_order: 3
       </h3>
       <p class="paper-venue">
         <em>Environmental Science &amp; Technology · 2017 · 51(18): 10736–10745</em>
-              <a
+        <a
           class="paper-link"
           href="https://doi.org/10.1021/acs.est.7b02750"
           target="_blank"
@@ -419,6 +397,42 @@ nav_order: 3
         <img
           src="{{ '/assets/img/n2o_biofilter_2017.png' | relative_url }}"
           alt="Self-sustaining biofiltration of nitrous oxide"
+          loading="lazy"
+        >
+      </figure>
+      {% endif %}
+    </article>
+  </section>
+
+  <!-- Theme 4 -->
+  <section class="portfolio-section" aria-labelledby="analytical">
+    <h2 class="section-heading" id="analytical">
+      Analytical Methods for Emerging Contaminants
+    </h2>
+
+    <article class="paper">
+      <h3 class="paper-title">
+        Versatile TOP assay surrogates for evaluating oxidation efficiency
+        in complex environmental samples
+      </h3>
+      <p class="paper-venue">
+        <em>Journal of Hazardous Materials Letters · 2026 · 7: 100198</em>
+        <a
+          class="paper-link"
+          href="https://doi.org/10.1016/j.hazl.2026.100198"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Open TOP assay paper in a new tab"
+        >[Link]</a>
+      </p>
+      <p class="paper-role">Co-first author with Sarah Choyke</p>
+
+      {% assign highlight_image = site.static_files | where: "path", "/assets/img/top_assay_2026.png" | first %}
+      {% if highlight_image %}
+      <figure class="paper-figure">
+        <img
+          src="{{ '/assets/img/top_assay_2026.png' | relative_url }}"
+          alt="TOP assay performance in complex samples"
           loading="lazy"
         >
       </figure>
