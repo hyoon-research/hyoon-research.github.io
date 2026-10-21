@@ -26,12 +26,6 @@ profile:
          style="color: inherit; text-decoration: none;">
         <i class="ai ai-google-scholar" aria-hidden="true"></i>
       </a>
-      <a href="https://github.com/hyoon-research"
-         target="_blank" rel="noopener noreferrer"
-         aria-label="GitHub" title="GitHub"
-         style="color: inherit; text-decoration: none;">
-        <i class="fa-brands fa-github" aria-hidden="true"></i>
-      </a>
       <a href="https://www.linkedin.com/in/hyun-yoon-ba10a18b/"
          target="_blank" rel="noopener noreferrer"
          aria-label="LinkedIn" title="LinkedIn"
