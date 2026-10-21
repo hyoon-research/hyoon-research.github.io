@@ -124,6 +124,14 @@ nav_order: 3
       <h3 class="paper-title">
         Molecular structure and environmental context jointly predict PFAS
         biotransformation outcomes: a literature-derived machine learning analysis
+            <a
+      class="paper-link"
+      href="{{ '/assets/pdf/poster_ml.pdf' | relative_url }}"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="Open research poster in a new tab"
+      title="Research poster"
+    >[Poster Link]</a>
       </h3>
       <p class="paper-venue"><em>In preparation</em></p>
       <p class="paper-role">First author</p>
@@ -144,6 +152,14 @@ nav_order: 3
       <h3 class="paper-title">
         Charge-dependent sorption controls the bioavailability and
         biotransformation of PFAS precursors in AFFF-impacted solids
+                    <a
+      class="paper-link"
+      href="{{ '/assets/pdf/poster_bioavailability.pdf' | relative_url }}"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="Open research poster in a new tab"
+      title="Research poster"
+    >[Poster Link]</a>
       </h3>
       <p class="paper-venue"><em>In preparation</em></p>
       <p class="paper-role">
