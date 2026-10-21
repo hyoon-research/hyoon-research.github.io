@@ -124,7 +124,9 @@ nav_order: 3
       <h3 class="paper-title">
         Molecular structure and environmental context jointly predict PFAS
         biotransformation outcomes: a literature-derived machine learning analysis
-            <a
+      </h3>
+      <p class="paper-venue"><em>In preparation</em>
+                  <a
       class="paper-link"
       href="{{ '/assets/pdf/poster_ml.pdf' | relative_url }}"
       target="_blank"
@@ -132,8 +134,7 @@ nav_order: 3
       aria-label="Open research poster in a new tab"
       title="Research poster"
     >[Poster Link]</a>
-      </h3>
-      <p class="paper-venue"><em>In preparation</em></p>
+      </p>
       <p class="paper-role">First author</p>
 
       {% assign highlight_image = site.static_files | where: "path", "/assets/img/pfas_ml_inprep.png" | first %}
@@ -152,7 +153,10 @@ nav_order: 3
       <h3 class="paper-title">
         Charge-dependent sorption controls the bioavailability and
         biotransformation of PFAS precursors in AFFF-impacted solids
-                    <a
+
+      </h3>
+      <p class="paper-venue"><em>In preparation</em>
+                          <a
       class="paper-link"
       href="{{ '/assets/pdf/poster_bioavailability.pdf' | relative_url }}"
       target="_blank"
@@ -160,8 +164,7 @@ nav_order: 3
       aria-label="Open research poster in a new tab"
       title="Research poster"
     >[Poster Link]</a>
-      </h3>
-      <p class="paper-venue"><em>In preparation</em></p>
+      </p>
       <p class="paper-role">
         Co-first author with Anna-Ricarda Schittich
       </p>
@@ -186,15 +189,16 @@ nav_order: 3
       <h3 class="paper-title">
         Genome-resolved metatranscriptomic analysis of arsenic demethylation
         and detoxification in a methanogenic rice paddy soil
-        <a
+      </h3>
+      <p class="paper-venue"><em>bioRxiv · 2026</em>
+              <a
           class="paper-link"
           href="https://doi.org/10.64898/2026.08.27.747368"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Open arsenic demethylation preprint in a new tab"
         >[Link]</a>
-      </h3>
-      <p class="paper-venue"><em>bioRxiv · 2026</em></p>
+      </p>
       <p class="paper-role">Co-first author with Michael Vega</p>
 
       {% assign highlight_image = site.static_files | where: "path", "/assets/img/arsenic_demethylation_2026.png" | first %}
@@ -219,16 +223,16 @@ nav_order: 3
       <h3 class="paper-title">
         Versatile TOP assay surrogates for evaluating oxidation efficiency
         in complex environmental samples
-        <a
+      </h3>
+      <p class="paper-venue">
+        <em>Journal of Hazardous Materials Letters · 2026 · 7: 100198</em>
+              <a
           class="paper-link"
           href="https://doi.org/10.1016/j.hazl.2026.100198"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Open TOP assay paper in a new tab"
-        >[Link]</a>
-      </h3>
-      <p class="paper-venue">
-        <em>Journal of Hazardous Materials Letters · 2026 · 7: 100198</em>
+        >[Link]</a>  
       </p>
       <p class="paper-role">Co-first author with Sarah Choyke</p>
 
@@ -249,16 +253,16 @@ nav_order: 3
         Effects of Organic Matter, Iron (Hydr)oxides, and Iron Reductive
         Dissolution on Per- and Polyfluoroalkyl Substances Sorption to
         Aqueous Film-Forming Foam-Impacted Solids
-        <a
+      </h3>
+      <p class="paper-venue">
+        <em>Environmental Science &amp; Technology Letters · 2026 · 13(1): 130–136</em>
+             <a
           class="paper-link"
           href="https://doi.org/10.1021/acs.estlett.5c01155"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Open PFAS sorption paper in a new tab"
         >[Link]</a>
-      </h3>
-      <p class="paper-venue">
-        <em>Environmental Science &amp; Technology Letters · 2026 · 13(1): 130–136</em>
       </p>
       <p class="paper-role">First author</p>
 
@@ -278,16 +282,16 @@ nav_order: 3
       <h3 class="paper-title">
         Repression of microbial arsenite uptake and methylation by dissolved
         organic carbon
-        <a
+      </h3>
+      <p class="paper-venue">
+        <em>Environmental Science &amp; Technology Letters · 2024 · 11(8): 838–844</em>
+              <a
           class="paper-link"
           href="https://doi.org/10.1021/acs.estlett.4c00400"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Open arsenite uptake and methylation paper in a new tab"
         >[Link]</a>
-      </h3>
-      <p class="paper-venue">
-        <em>Environmental Science &amp; Technology Letters · 2024 · 11(8): 838–844</em>
       </p>
       <p class="paper-role">First author</p>
 
@@ -307,16 +311,16 @@ nav_order: 3
       <h3 class="paper-title">
         Effects of iron and dissolved organic matter on bioavailability
         of arsenite under anaerobic conditions
-        <a
+      </h3>
+      <p class="paper-venue">
+        <em>ACS ES&amp;T Water · 2023 · 3(11): 3676–3686</em>
+              <a
           class="paper-link"
           href="https://doi.org/10.1021/acsestwater.3c00432"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Open arsenite bioavailability paper in a new tab"
         >[Link]</a>
-      </h3>
-      <p class="paper-venue">
-        <em>ACS ES&amp;T Water · 2023 · 3(11): 3676–3686</em>
       </p>
       <p class="paper-role">First author</p>
 
@@ -336,16 +340,16 @@ nav_order: 3
       <h3 class="paper-title">
         Time-dependent biosensor fluorescence as a measure of bacterial
         arsenic uptake kinetics and its inhibition by dissolved organic matter
-        <a
+      </h3>
+      <p class="paper-venue">
+        <em>Applied and Environmental Microbiology · 2022 · 88(16): e00891-22</em>
+              <a
           class="paper-link"
           href="https://doi.org/10.1128/aem.00891-22"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Open arsenic biosensor paper in a new tab"
         >[Link]</a>
-      </h3>
-      <p class="paper-venue">
-        <em>Applied and Environmental Microbiology · 2022 · 88(16): e00891-22</em>
       </p>
       <p class="paper-role">First author</p>
 
@@ -366,16 +370,16 @@ nav_order: 3
         A serial biofiltration system for effective removal of low-concentration
         nitrous oxide in oxic gas streams: mathematical modeling of reactor
         performance and experimental validation
-        <a
+      </h3>
+      <p class="paper-venue">
+        <em>Environmental Science &amp; Technology · 2019 · 53(4): 2063–2074</em>
+              <a
           class="paper-link"
           href="https://doi.org/10.1021/acs.est.8b05924"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Open serial biofiltration paper in a new tab"
         >[Link]</a>
-      </h3>
-      <p class="paper-venue">
-        <em>Environmental Science &amp; Technology · 2019 · 53(4): 2063–2074</em>
       </p>
       <p class="paper-role">First author</p>
 
@@ -396,16 +400,16 @@ nav_order: 3
         Design and feasibility analysis of a self-sustaining biofiltration
         system for removal of low concentration N2O emitted from wastewater
         treatment plants
-        <a
+      </h3>
+      <p class="paper-venue">
+        <em>Environmental Science &amp; Technology · 2017 · 51(18): 10736–10745</em>
+              <a
           class="paper-link"
           href="https://doi.org/10.1021/acs.est.7b02750"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Open self-sustaining biofiltration paper in a new tab"
         >[Link]</a>
-      </h3>
-      <p class="paper-venue">
-        <em>Environmental Science &amp; Technology · 2017 · 51(18): 10736–10745</em>
       </p>
       <p class="paper-role">First author</p>
 
