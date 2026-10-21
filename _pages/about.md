@@ -85,7 +85,7 @@ My research develops **predictive frameworks for contaminant fate** by integrati
 
 <figure style="clear: both; margin: 1.5rem 0;">
   <img
-    src="{{ '/assets/img/research_experiment.jpg' | relative_url }}"
+    src="{{ '/assets/img/research_experiment.png' | relative_url }}"
     alt="Experimental setup for environmental biogeochemistry research"
     loading="lazy"
     style="display: block; width: 100%; height: auto; border-radius: 6px;"
